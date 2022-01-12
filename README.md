@@ -1,7 +1,7 @@
 # DOM Array Methods
  Project to teach high order array methods and DOM manipulation
 
-## cover the topics
+## What we Do..
 - Fetch random users from the randomuser.me API
 - Use forEach() to loop and output user/wealth
 - Use map() to double wealth
