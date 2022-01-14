@@ -76,6 +76,9 @@ function sortWealth() {
 }
 // for total money of all users
 function totalBalance() {
+    // here we update dom because if user push total balance brn more than one time.
+    updateDOM();
+
     // accumulator start at 0 
     const balance = data.reduce((acc, user) => acc+=user.balance, 0);
     console.log(balance);
