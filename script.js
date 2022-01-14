@@ -114,3 +114,10 @@ filterBtn.onclick = filterMillionaires;
 sortBtn.onclick = sortWealth;
 // sum all balance of user
 sumBtn.onclick = totalBalance;
+
+
+
+
+
+
+
